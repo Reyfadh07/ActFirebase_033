@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947498762287",
+    "project_id": "dbkelasa",
+    "storage_bucket": "dbkelasa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947498762287:android:850bad4d3bcb2479bb46da",
+        "android_client_info": {
+          "package_name": "com.example.actfirebase_033"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947498762287-gg67nvdss55vfvkoeequpcrgm6d8ac1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.actfirebase_033",
+            "certificate_hash": "898acd0ffa3fff67b865ca0effd001fd46051783"
+          }
+        },
+        {
+          "client_id": "947498762287-039upc5kipa82ve1e97rt1dtnhr2dgl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdx4exw99BC4B0KUUSDW_N7f2qpmzC7lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947498762287-039upc5kipa82ve1e97rt1dtnhr2dgl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
